@@ -1,0 +1,31 @@
+Bearing,Type,TN,FP,FN,TP,Healthy_FPR,Damaged_Recall,Method
+K001,Healthy,79,1,0,0,0.0125,,Corrected Absolute STFT
+K002,Healthy,0,80,0,0,1.0,,Corrected Absolute STFT
+K003,Healthy,80,0,0,0,0.0,,Corrected Absolute STFT
+K004,Healthy,80,0,0,0,0.0,,Corrected Absolute STFT
+K005,Healthy,70,10,0,0,0.125,,Corrected Absolute STFT
+K006,Healthy,80,0,0,0,0.0,,Corrected Absolute STFT
+KA01,Damaged,0,0,20,60,,0.75,Corrected Absolute STFT
+KA03,Damaged,0,0,64,16,,0.2,Corrected Absolute STFT
+KA04,Damaged,0,0,6,74,,0.925,Corrected Absolute STFT
+KI05,Damaged,0,0,80,0,,0.0,Corrected Absolute STFT
+K001,Healthy,80,0,0,0,0.0,,Corrected Order-Normalized STFT
+K002,Healthy,0,80,0,0,1.0,,Corrected Order-Normalized STFT
+K003,Healthy,80,0,0,0,0.0,,Corrected Order-Normalized STFT
+K004,Healthy,73,7,0,0,0.0875,,Corrected Order-Normalized STFT
+K005,Healthy,80,0,0,0,0.0,,Corrected Order-Normalized STFT
+K006,Healthy,80,0,0,0,0.0,,Corrected Order-Normalized STFT
+KA01,Damaged,0,0,21,59,,0.7375,Corrected Order-Normalized STFT
+KA03,Damaged,0,0,80,0,,0.0,Corrected Order-Normalized STFT
+KA04,Damaged,0,0,0,80,,1.0,Corrected Order-Normalized STFT
+KI05,Damaged,0,0,80,0,,0.0,Corrected Order-Normalized STFT
+K001,Healthy,80,0,0,0,0.0,,Corrected True RMS-Normalized STFT
+K002,Healthy,1,79,0,0,0.9875,,Corrected True RMS-Normalized STFT
+K003,Healthy,80,0,0,0,0.0,,Corrected True RMS-Normalized STFT
+K004,Healthy,44,36,0,0,0.45,,Corrected True RMS-Normalized STFT
+K005,Healthy,41,39,0,0,0.4875,,Corrected True RMS-Normalized STFT
+K006,Healthy,80,0,0,0,0.0,,Corrected True RMS-Normalized STFT
+KA01,Damaged,0,0,38,42,,0.525,Corrected True RMS-Normalized STFT
+KA03,Damaged,0,0,53,27,,0.3375,Corrected True RMS-Normalized STFT
+KA04,Damaged,0,0,20,60,,0.75,Corrected True RMS-Normalized STFT
+KI05,Damaged,0,0,80,0,,0.0,Corrected True RMS-Normalized STFT

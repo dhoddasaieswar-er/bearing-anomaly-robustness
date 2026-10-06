@@ -1,0 +1,13 @@
+SNR,Severity,Detected,Total,Detection_Rate
+0,Mild,65,100,0.65
+0,Medium,95,100,0.95
+0,Strong,100,100,1.0
+5,Mild,67,100,0.67
+5,Medium,99,100,0.99
+5,Strong,100,100,1.0
+10,Mild,75,100,0.75
+10,Medium,100,100,1.0
+10,Strong,100,100,1.0
+20,Mild,100,100,1.0
+20,Medium,100,100,1.0
+20,Strong,100,100,1.0

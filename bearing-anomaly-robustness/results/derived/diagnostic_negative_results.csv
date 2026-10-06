@@ -1,0 +1,8 @@
+Experiment,F1,Conclusion
+Healthy-only OCSVM,0.5777,High false-positive burden; not retained
+Healthy-only Isolation Forest,0.5616,High false-positive burden; not retained
+Healthy-only Mahalanobis,0.5887,High false-positive burden; not retained
+Order-domain envelope features,0.2335,Poor separation; not retained
+Multi-view condition-adaptive SVM,0.6885,No sufficient improvement over retained approach
+Bearing residual SVM,0.7624,Diagnostic improvement; bootstrap comparison not conclusive
+Absolute STFT nearest centroid,0.7648,Retained as strong low-complexity reference

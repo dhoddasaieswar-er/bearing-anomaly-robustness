@@ -1,0 +1,6 @@
+Experiment,Dataset_Size,Protocol,Main_Result,Interpretation
+Initial synthetic baseline,480,Random 70/30 split,F1 = 0.9037,Baseline detectability under controlled synthetic conditions
+Unseen operating condition,480,Train A+B / Test C,F1 = 0.9045,Generalization to an unseen operating condition
+Randomized anomaly severity,4800,Train A+B / Test C,F1 ranges from 0.8455 at 0 dB to 0.9967 at 20 dB,Noise and anomaly severity jointly affect robustness
+Mixed-SNR representation comparison,4800,Unseen condition C,Relative STFT F1 = 0.9328,Relative-frequency representation reduced sensitivity to operating-condition shift in the controlled experiment
+Relative-STFT LOCO,4800,Leave-one-condition-out,F1 = 0.9829 / 0.9841 / 0.9418 for A/B/C,Condition-normalized representation remained effective across held-out synthetic conditions

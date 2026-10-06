@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying research article."
+title: "Robustness Evaluation of Anomaly Detection in Non-Stationary Vibration Signals Under Variable Noise and Operating Conditions"
+type: software
+version: "1.0.0"
+year: 2026
+authors:
+  - name: "Dhodda Sai Eswar"
+license: MIT

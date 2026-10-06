@@ -1,0 +1,8 @@
+Figure,Content,Purpose
+Figure 1,Overall research/evaluation framework,Method overview
+Figure 2,Synthetic non-stationary signal with anomaly and noise,Synthetic setup
+Figure 3,Synthetic F1 versus SNR/severity,Noise/severity robustness
+Figure 4,Absolute versus relative-frequency STFT under unseen conditions,Representation robustness
+Figure 5,Paderborn LOBO performance,Real-data generalization
+Figure 6,Bearing × condition failure-rate heatmap,Failure localization
+Figure 7,Persistent failure concentration,Robustness diagnosis

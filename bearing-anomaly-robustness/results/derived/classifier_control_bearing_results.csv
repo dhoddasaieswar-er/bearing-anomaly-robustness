@@ -1,0 +1,81 @@
+Classifier,Bearing,Class,Metric,Value
+Random Forest,K001,Healthy,Healthy_FPR,0.0
+Random Forest,K002,Healthy,Healthy_FPR,1.0
+Random Forest,K003,Healthy,Healthy_FPR,0.0
+Random Forest,K004,Healthy,Healthy_FPR,0.0
+Random Forest,K005,Healthy,Healthy_FPR,0.625
+Random Forest,K006,Healthy,Healthy_FPR,0.0125
+Random Forest,KA01,Damaged,Damaged_Recall,0.4875
+Random Forest,KA03,Damaged,Damaged_Recall,0.0
+Random Forest,KA04,Damaged,Damaged_Recall,0.8125
+Random Forest,KI05,Damaged,Damaged_Recall,0.0
+SVM,K001,Healthy,Healthy_FPR,0.0
+SVM,K002,Healthy,Healthy_FPR,1.0
+SVM,K003,Healthy,Healthy_FPR,0.0
+SVM,K004,Healthy,Healthy_FPR,0.0
+SVM,K005,Healthy,Healthy_FPR,0.3375
+SVM,K006,Healthy,Healthy_FPR,0.0
+SVM,KA01,Damaged,Damaged_Recall,0.75
+SVM,KA03,Damaged,Damaged_Recall,0.75
+SVM,KA04,Damaged,Damaged_Recall,0.7625
+SVM,KI05,Damaged,Damaged_Recall,0.025
+Random Forest,K001,Healthy,Healthy_FPR,0.0125
+Random Forest,K002,Healthy,Healthy_FPR,1.0
+Random Forest,K003,Healthy,Healthy_FPR,0.0
+Random Forest,K004,Healthy,Healthy_FPR,0.0
+Random Forest,K005,Healthy,Healthy_FPR,0.125
+Random Forest,K006,Healthy,Healthy_FPR,0.0
+Random Forest,KA01,Damaged,Damaged_Recall,0.75
+Random Forest,KA03,Damaged,Damaged_Recall,0.2
+Random Forest,KA04,Damaged,Damaged_Recall,0.925
+Random Forest,KI05,Damaged,Damaged_Recall,0.0
+SVM,K001,Healthy,Healthy_FPR,0.0
+SVM,K002,Healthy,Healthy_FPR,0.75
+SVM,K003,Healthy,Healthy_FPR,0.0
+SVM,K004,Healthy,Healthy_FPR,0.95
+SVM,K005,Healthy,Healthy_FPR,0.0
+SVM,K006,Healthy,Healthy_FPR,0.0
+SVM,KA01,Damaged,Damaged_Recall,0.75
+SVM,KA03,Damaged,Damaged_Recall,0.7125
+SVM,KA04,Damaged,Damaged_Recall,1.0
+SVM,KI05,Damaged,Damaged_Recall,0.0
+Random Forest,K001,Healthy,Healthy_FPR,0.0
+Random Forest,K002,Healthy,Healthy_FPR,1.0
+Random Forest,K003,Healthy,Healthy_FPR,0.0
+Random Forest,K004,Healthy,Healthy_FPR,0.0875
+Random Forest,K005,Healthy,Healthy_FPR,0.0
+Random Forest,K006,Healthy,Healthy_FPR,0.0
+Random Forest,KA01,Damaged,Damaged_Recall,0.7375
+Random Forest,KA03,Damaged,Damaged_Recall,0.0
+Random Forest,KA04,Damaged,Damaged_Recall,1.0
+Random Forest,KI05,Damaged,Damaged_Recall,0.0
+SVM,K001,Healthy,Healthy_FPR,0.0
+SVM,K002,Healthy,Healthy_FPR,0.75
+SVM,K003,Healthy,Healthy_FPR,0.0
+SVM,K004,Healthy,Healthy_FPR,0.0
+SVM,K005,Healthy,Healthy_FPR,0.0
+SVM,K006,Healthy,Healthy_FPR,0.025
+SVM,KA01,Damaged,Damaged_Recall,0.75
+SVM,KA03,Damaged,Damaged_Recall,0.375
+SVM,KA04,Damaged,Damaged_Recall,1.0
+SVM,KI05,Damaged,Damaged_Recall,0.0
+Random Forest,K001,Healthy,Healthy_FPR,0.0
+Random Forest,K002,Healthy,Healthy_FPR,0.9875
+Random Forest,K003,Healthy,Healthy_FPR,0.0
+Random Forest,K004,Healthy,Healthy_FPR,0.45
+Random Forest,K005,Healthy,Healthy_FPR,0.4875
+Random Forest,K006,Healthy,Healthy_FPR,0.0
+Random Forest,KA01,Damaged,Damaged_Recall,0.525
+Random Forest,KA03,Damaged,Damaged_Recall,0.3375
+Random Forest,KA04,Damaged,Damaged_Recall,0.75
+Random Forest,KI05,Damaged,Damaged_Recall,0.0
+SVM,K001,Healthy,Healthy_FPR,0.0
+SVM,K002,Healthy,Healthy_FPR,0.75
+SVM,K003,Healthy,Healthy_FPR,0.0
+SVM,K004,Healthy,Healthy_FPR,0.4625
+SVM,K005,Healthy,Healthy_FPR,0.0375
+SVM,K006,Healthy,Healthy_FPR,0.0
+SVM,KA01,Damaged,Damaged_Recall,0.75
+SVM,KA03,Damaged,Damaged_Recall,0.5
+SVM,KA04,Damaged,Damaged_Recall,1.0
+SVM,KI05,Damaged,Damaged_Recall,0.0

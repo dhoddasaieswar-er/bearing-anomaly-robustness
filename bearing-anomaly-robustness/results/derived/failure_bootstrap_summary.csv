@@ -1,0 +1,10 @@
+Metric,Observed,CI_Lower,CI_Upper
+Overall any-configuration failure,0.39375,0.36,0.4288
+Persistent failure across all 4 configurations,0.125,0.1025,0.1487
+Mean configuration failure rate,0.228437,0.2053,0.2531
+Healthy any-configuration failure,0.33125,0.2899,0.3734
+Damaged any-configuration failure,0.4875,0.4325,0.5425
+Damaged persistent failure,0.3125,0.261,0.3636
+KI05 persistent failure,1.0,1.0,1.0
+KA03 any-configuration failure,0.7,0.5979,0.8
+K002 any-configuration failure,1.0,1.0,1.0

@@ -1,0 +1,9 @@
+Dataset,Protocol,Representation,Classifier,Accuracy,Precision,Recall,F1,Healthy_FPR,Specificity
+Paderborn,Strict LOBO,Time-domain,Random Forest,0.5663,0.4426,0.325,0.3748,0.2729,0.7271
+Paderborn,Strict LOBO,Time-domain,RBF-SVM,0.695,0.631,0.5719,0.6,0.2229,0.7771
+Paderborn,Strict LOBO,Absolute STFT,Random Forest,0.6738,0.6224,0.4688,0.5348,0.1896,0.8104
+Paderborn,Strict LOBO,Absolute STFT,RBF-SVM,0.6763,0.5916,0.6156,0.6034,0.2833,0.7167
+Paderborn,Strict LOBO,Order STFT,Random Forest,0.665,0.615,0.4344,0.5092,0.1813,0.8188
+Paderborn,Strict LOBO,Order STFT,RBF-SVM,0.735,0.7328,0.5312,0.6159,0.1292,0.8708
+Paderborn,Strict LOBO,RMS STFT,Random Forest,0.5688,0.4558,0.4031,0.4279,0.3208,0.6792
+Paderborn,Strict LOBO,RMS STFT,RBF-SVM,0.7,0.6429,0.5625,0.6,0.2083,0.7917

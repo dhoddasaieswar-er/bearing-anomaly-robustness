@@ -1,0 +1,2 @@
+Baseline,Candidate,Baseline_F1,Candidate_F1,Observed_F1_Difference,Bootstrap_CI_Low,Bootstrap_CI_High,McNemar_ChiSquare,McNemar_p,Changed_Predictions,Change_Rate,Baseline_Only_Correct,Candidate_Only_Correct
+Absolute_STFT_Centroid,Absolute_Plus_Relative_Centroid,0.7648183556405354,0.7692307692307693,0.004412413590233921,0.0,0.010205398539563903,1.3333333333333333,0.24821307898992356,3,0.00375,0,3

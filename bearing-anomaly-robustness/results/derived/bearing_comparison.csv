@@ -1,0 +1,11 @@
+Bearing,Baseline_FPR,Candidate_FPR,Baseline_Recall,Candidate_Recall
+K001,0.0,0.0,,
+K002,0.0,0.0,,
+K003,0.0,0.0,,
+K004,0.0,0.0,,
+K005,0.0,0.0,,
+K006,0.0375,0.0,,
+KA01,,,0.75,0.75
+KA03,,,0.75,0.75
+KA04,,,1.0,1.0
+KI05,,,0.0,0.0

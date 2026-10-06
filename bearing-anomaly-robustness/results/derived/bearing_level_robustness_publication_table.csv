@@ -1,0 +1,9 @@
+Representation,Classifier,Healthy FPR Mean ± SD,Healthy FPR Median,Healthy FPR Min-Max,Damaged Recall Mean ± SD,Damaged Recall Median,Damaged Recall Min-Max
+Time-domain,Random Forest,0.273 ± 0.434,0.006,0.000–1.000,0.325 ± 0.398,0.244,0.000–0.812
+Time-domain,SVM,0.223 ± 0.404,0.000,0.000–1.000,0.572 ± 0.365,0.750,0.025–0.762
+Absolute STFT,Random Forest,0.190 ± 0.400,0.006,0.000–1.000,0.469 ± 0.439,0.475,0.000–0.925
+Absolute STFT,SVM,0.283 ± 0.443,0.000,0.000–0.950,0.616 ± 0.430,0.731,0.000–1.000
+Order STFT,Random Forest,0.181 ± 0.403,0.000,0.000–1.000,0.434 ± 0.513,0.369,0.000–1.000
+Order STFT,SVM,0.129 ± 0.304,0.000,0.000–0.750,0.531 ± 0.438,0.562,0.000–1.000
+RMS-normalized STFT,Random Forest,0.321 ± 0.399,0.225,0.000–0.988,0.403 ± 0.317,0.431,0.000–0.750
+RMS-normalized STFT,SVM,0.208 ± 0.322,0.019,0.000–0.750,0.562 ± 0.427,0.625,0.000–1.000

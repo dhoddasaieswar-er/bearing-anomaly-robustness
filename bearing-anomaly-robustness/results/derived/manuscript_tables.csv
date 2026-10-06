@@ -1,0 +1,6 @@
+Item,Content,Purpose
+Table 1,Paderborn dataset composition and operating conditions,Dataset definition
+Table 2,Synthetic experiment design,Controlled robustness evaluation
+Table 3,Real-data LOBO performance across representations and classifiers,Primary performance comparison
+Table 4,Failure concentration by bearing and condition,Robustness/failure characterization
+Table 5,Clustered bootstrap uncertainty,Statistical robustness
