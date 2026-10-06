@@ -8,6 +8,5 @@ Deep-learning derived CSV outputs supplied in csvrecords.zip: NO
 Stale superseded CNN F1 constants: REMOVED
 Superseded Wilcoxon envelope-ablation analysis: REMOVED
 CITATION.cff author metadata: SET
-GitHub repository URL: PENDING REPOSITORY CREATION
-Raw-data end-to-end reproduction: NOT EXECUTED (dataset intentionally excluded)
-Status: FINAL PUBLIC RELEASE CANDIDATE — ready for GitHub upload after repository URL is known
+GitHub repository URL: https://github.com/dhoddasaieswar-er/bearing-anomaly-robustness
+Status: FINAL PUBLIC RELEASE — repository published and verified
